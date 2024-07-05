@@ -9,4 +9,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-** capital city of countries and currency**
+#### capital city of countries and currency 
+
+### flashcards view 
+![alt text](public/imageflashcard.png)
